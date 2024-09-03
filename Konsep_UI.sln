@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konsep_UI", "Konsep_UI\Konsep_UI.csproj", "{DEF5EAE5-6BCD-4072-9396-01FD82B544BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF5EAE5-6BCD-4072-9396-01FD82B544BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF5EAE5-6BCD-4072-9396-01FD82B544BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF5EAE5-6BCD-4072-9396-01FD82B544BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF5EAE5-6BCD-4072-9396-01FD82B544BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2E7033F-DB36-4A49-83AB-BC5E10D5D48E}
+	EndGlobalSection
+EndGlobal
